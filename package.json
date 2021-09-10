@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jdmar3-comp426/a00-djm0321/issues"
   },
-  "homepage": "https://github.com/jdmar3-comp426/a00-djm0321#readme"
+  "homepage": "https://github.com/jdmar3-comp426/a00-djm0321#readme",
+  "dependencies": {
+    "browser-sync": "^2.27.5"
+  }
 }
